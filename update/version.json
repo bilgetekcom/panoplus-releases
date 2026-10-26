@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.4",
-    "release_date":  "2026-07-09",
-    "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.4/Panoplus_Setup.exe",
-    "checksum_sha256":  "d237d296ff6c2aa3dd5112c8d704eaa3c032bcc5327f3cc884d518e7cd016379",
-    "release_notes":  {
-                          "tr":  "Cikarim dogrulugu: hayalet cihaz kalemi giderildi, kontaktor ve guc kaynagi artik taniniyor, pako/kam salteri otomat sigortadan ayirt ediliyor.",
-                          "en":  "Takeoff accuracy: phantom device line removed; contactor and power supply now recognized; cam/rotary switch distinguished from MCB."
-                      }
+  "version": "0.1.13",
+  "release_date": "2026-10-26",
+  "channel": "stable",
+  "download_url": "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.13/Panoplus_Setup.exe",
+  "checksum_sha256": "dafc24252d972ca911e87d79747c706a26ac20626023498d41915c3f17765113",
+  "release_notes": {
+    "tr": "Malzeme okuma ve otomatik pano ayırma iyileştirildi. Belirsiz malzemelerin panolara atanması, pano bazında Excel dökümü ve proje kuralları eklendi. Malzeme ve teklif arayüzü sadeleştirildi. Fiziksel pano yerleşimi bu sürümün kapsamında değildir.",
+    "en": "Improved material extraction and automatic panel grouping; editable uncertain assignments, panel Excel exports and project rules; simplified material and quotation workflow. Physical cabinet layout is not included."
+  }
 }
