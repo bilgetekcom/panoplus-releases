@@ -1,11 +1,11 @@
 {
-  "version": "0.1.13",
-  "release_date": "2026-10-26",
-  "channel": "stable",
-  "download_url": "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.13/Panoplus_Setup.exe",
-  "checksum_sha256": "dafc24252d972ca911e87d79747c706a26ac20626023498d41915c3f17765113",
-  "release_notes": {
-    "tr": "Malzeme okuma ve otomatik pano ayırma iyileştirildi. Belirsiz malzemelerin panolara atanması, pano bazında Excel dökümü ve proje kuralları eklendi. Malzeme ve teklif arayüzü sadeleştirildi. Fiziksel pano yerleşimi bu sürümün kapsamında değildir.",
-    "en": "Improved material extraction and automatic panel grouping; editable uncertain assignments, panel Excel exports and project rules; simplified material and quotation workflow. Physical cabinet layout is not included."
-  }
+    "version":  "0.1.21",
+    "release_date":  "2026-10-30",
+    "channel":  "stable",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.21/Panoplus_Setup.exe",
+    "checksum_sha256":  "25d0c29bbc427b405c50819985461433ed7f0679074403f9116cde3030fa7455",
+    "release_notes":  {
+                          "tr":  "Kredi tabanlı lisans desteği eklendi; mevcut lisans anahtarları aynen çalışmaya devam eder. Pano malzeme listesi Excel çıktısı tek sayfada, pano pano alt alta olacak şekilde yeniden düzenlendi (Kaynak ve Kanıt sütunları kaldırıldı). Kullanım ölçümü, çizim ve firma içeriği toplanmadan, yalnızca sayısal ve teknik bilgilerle yapılır.",
+                          "en":  ""
+                      }
 }
