@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.41",
+    "version":  "0.1.42",
     "release_date":  "2026-11-02",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.41/Panoplus_Setup.exe",
-    "checksum_sha256":  "13cbec308b0f2f12a65f519602ef89861439cee5b2842acef861bcda27e0d8ee",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.42/Panoplus_Setup.exe",
+    "checksum_sha256":  "3980c594e10535e86affb9f32992ba7922f5c9ba70ac671ca6c44c3b562f965a",
     "release_notes":  {
-                          "tr":  "Ürün seçimi akışın ayrı bir adımı oldu: Malzeme, Ürünler, Panolar. Panoplus seçtiğiniz markadan her malzemeye ürün kodunu kendisi koyar, isterseniz kütüphaneden başkasını seçer ya da elle yazarsınız. Excel teklif tablosu müşterinin kullandığı biçimde çıkar (referans kodu, üretici, adet, formüllü fiyat sütunları). Pano PDF ve DWG listelerinde de marka ve ürün kodu görünür. Pano ölçüleri seçilen ürünlerin markasına göre hesaplanır. Ürün kütüphanesi yaklaşık 19 bin ürüne çıktı (Legrand, Schneider Electric, ABB, Siemens, ONKA, GWEST, ENTES), kendi ürününüzü ekleyebilirsiniz. Açılış ekranı, üst çubuk ve lisans penceresi sadeleştirildi. Lisans sözleşmesi eklendi.",
+                          "tr":  "Pano çizimleri panocuların kendi çizimlerine yaklaştırıldı. DWG\u0027de her cihaz ayrı bir blok olarak gelir, tek tek taşınıp düzenlenebilir. Sayfada perde sacı görünüşü bulunur. Renkler panocuların kullandığı biçimdedir: siyah çizgi, turuncu bara ve kablo, pembe kapak, açık mavi pleksi. Tek hat çizimi ve pano görünümleri yeni bir DWG\u0027de yan yana verilir, kendi dosyanıza dokunulmaz. Ölçüler adımına müşteri yerleşim profili eklendi, alışkanlıklarınızı bir kez kaydedip her projede seçebilirsiniz. Büyük kabinler artık okunur ölçekte (1:10) çıkar.",
                           "en":  ""
                       }
 }
