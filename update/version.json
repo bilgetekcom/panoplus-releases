@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.42",
-    "release_date":  "2026-11-02",
+    "version":  "0.1.43",
+    "release_date":  "2026-11-03",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.42/Panoplus_Setup.exe",
-    "checksum_sha256":  "3980c594e10535e86affb9f32992ba7922f5c9ba70ac671ca6c44c3b562f965a",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.43/Panoplus_Setup.exe",
+    "checksum_sha256":  "e4032c07e26c42698ddf948e115ea6b33fd381545cb0b64176b6e505d6b2ae4a",
     "release_notes":  {
-                          "tr":  "Pano çizimleri panocuların kendi çizimlerine yaklaştırıldı. DWG\u0027de her cihaz ayrı bir blok olarak gelir, tek tek taşınıp düzenlenebilir. Sayfada perde sacı görünüşü bulunur. Renkler panocuların kullandığı biçimdedir: siyah çizgi, turuncu bara ve kablo, pembe kapak, açık mavi pleksi. Tek hat çizimi ve pano görünümleri yeni bir DWG\u0027de yan yana verilir, kendi dosyanıza dokunulmaz. Ölçüler adımına müşteri yerleşim profili eklendi, alışkanlıklarınızı bir kez kaydedip her projede seçebilirsiniz. Büyük kabinler artık okunur ölçekte (1:10) çıkar.",
+                          "tr":  "Çizimde göster artık her projenin kendi ölçeğine göre yaklaşır. Yazısı çok küçük ya da çok büyük çizimlerde de seçilen ürün okunur boyda açılır, uzaklaşırken çizimin tamamına çıkılabilir. Lisans doğrulamasında sunucunun verdiği ret sebebi (iptal, jeton süresi, imza, yoğunluk) artık bağlantı hatası gibi gösterilmez, gerçek sebep yazılır.",
                           "en":  ""
                       }
 }
