@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.43",
-    "release_date":  "2026-11-03",
+    "version":  "0.1.48",
+    "release_date":  "2026-11-04",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.43/Panoplus_Setup.exe",
-    "checksum_sha256":  "e4032c07e26c42698ddf948e115ea6b33fd381545cb0b64176b6e505d6b2ae4a",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.48/Panoplus_Setup.exe",
+    "checksum_sha256":  "4d08703494affa4587afd2b2c604a6132b7aa36043f9b9c915e0c84f3d325423",
     "release_notes":  {
-                          "tr":  "Çizimde göster artık her projenin kendi ölçeğine göre yaklaşır. Yazısı çok küçük ya da çok büyük çizimlerde de seçilen ürün okunur boyda açılır, uzaklaşırken çizimin tamamına çıkılabilir. Lisans doğrulamasında sunucunun verdiği ret sebebi (iptal, jeton süresi, imza, yoğunluk) artık bağlantı hatası gibi gösterilmez, gerçek sebep yazılır.",
+                          "tr":  "Pano çizimlerinde cihazlar, ürün adımında seçilen ürünün markasının kendi resmî ön görünüş çizimiyle gösterilir. Schneider Electric için Acti9 iC60, C120, Easy9, iSW, iID, ComPacT NSX, EasyPact CVS, NS800, TeSys D, TeSys E, iCT ve Easy9 parafudr; ABB için S200, F200 ve E90 çizimleri eklendi. Çizim seçilen ürünün ailesine göre belirlenir: üreticinin çizimi olmayan ya da gövdesi doğrulanamayan ürünler genel sembolle çizilir. Ürün kütüphanesine Schneider ComPacT NSX, Acti9 iSW ve ABB F200 kaçak akım röleleri eklendi; sigorta altlığı ve parafudr kendi ailesinin ölçüsüyle yerleştirilir.",
                           "en":  ""
                       }
 }
