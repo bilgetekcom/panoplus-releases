@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.50",
+    "version":  "0.1.51",
     "release_date":  "2026-11-04",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.50/Panoplus_Setup.exe",
-    "checksum_sha256":  "9cdf051f785007371140a9b6cedd156a7a24257486083508e308263ee45485d1",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.51/Panoplus_Setup.exe",
+    "checksum_sha256":  "f1a35128915d240a03ea10326c982808446845bba7873c6f72867dc1333c5f78",
     "release_notes":  {
-                          "tr":  "ABB S800 otomatik sigorta (1-4 kutup) ve FH202 kaçak akım rölesi için üreticinin kendi ön görünüş çizimleri eklendi. Pano ölçü, bara ve kablo Excel dökümlerinden gereksiz açıklama ve uyarı notları kaldırıldı.",
+                          "tr":  "Lisans planları: sınırsız ve kredi. Sınırsız planda çizim sayısı sınırsızdır, lisans bitiş tarihine kadar çalışır; kredi planında her yeni çizim bir kredi harcar. Plan ve bitiş tarihi lisans ekranında ve üst şeritte gösterilir. Kurulum sırasında lisans anahtarı sorulur ve doğrulanmadan kurulum tamamlanmaz. Lisans sözleşmesi iki plana göre güncellendi.",
                           "en":  ""
                       }
 }
