@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.48",
+    "version":  "0.1.50",
     "release_date":  "2026-11-04",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.48/Panoplus_Setup.exe",
-    "checksum_sha256":  "4d08703494affa4587afd2b2c604a6132b7aa36043f9b9c915e0c84f3d325423",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.50/Panoplus_Setup.exe",
+    "checksum_sha256":  "9cdf051f785007371140a9b6cedd156a7a24257486083508e308263ee45485d1",
     "release_notes":  {
-                          "tr":  "Pano çizimlerinde cihazlar, ürün adımında seçilen ürünün markasının kendi resmî ön görünüş çizimiyle gösterilir. Schneider Electric için Acti9 iC60, C120, Easy9, iSW, iID, ComPacT NSX, EasyPact CVS, NS800, TeSys D, TeSys E, iCT ve Easy9 parafudr; ABB için S200, F200 ve E90 çizimleri eklendi. Çizim seçilen ürünün ailesine göre belirlenir: üreticinin çizimi olmayan ya da gövdesi doğrulanamayan ürünler genel sembolle çizilir. Ürün kütüphanesine Schneider ComPacT NSX, Acti9 iSW ve ABB F200 kaçak akım röleleri eklendi; sigorta altlığı ve parafudr kendi ailesinin ölçüsüyle yerleştirilir.",
+                          "tr":  "ABB S800 otomatik sigorta (1-4 kutup) ve FH202 kaçak akım rölesi için üreticinin kendi ön görünüş çizimleri eklendi. Pano ölçü, bara ve kablo Excel dökümlerinden gereksiz açıklama ve uyarı notları kaldırıldı.",
                           "en":  ""
                       }
 }
