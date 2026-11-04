@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.53",
-    "release_date":  "2026-11-04",
+    "version":  "0.1.54",
+    "release_date":  "2026-11-05",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.53/Panoplus_Setup.exe",
-    "checksum_sha256":  "029cdf00ddd7edf133fa18d6a67d2a86c7e12df3f3becf777655bd814412c9d0",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.54/Panoplus_Setup.exe",
+    "checksum_sha256":  "e75d1d89401098688a23cba2d3426752424002f062103f7be7dac5ba2af3a430",
     "release_notes":  {
-                          "tr":  "0.1.52\u0027de yanlışlıkla ürün kütüphanesinden çıkarılan ENTES ve ONKA ürünleri geri eklendi. Başka bir değişiklik yok.",
+                          "tr":  "Çizimde hem sembolü hem de yanında yazısı bulunan cihazlar artık tek cihaz olarak sayılıyor. Sigorta, şalter ve akım trafosu sembollerinde cihaz sayısı gerçekte olduğundan fazla çıkabiliyordu. Eşleştirme çizimin ölçeğinden bağımsız çalışır.",
                           "en":  ""
                       }
 }
