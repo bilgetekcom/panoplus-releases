@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.52",
+    "version":  "0.1.53",
     "release_date":  "2026-11-04",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.52/Panoplus_Setup.exe",
-    "checksum_sha256":  "0908831aa1cd20117483d9fa749fb6fdb84042d844ff7a5ac602bb22faec8790",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.53/Panoplus_Setup.exe",
+    "checksum_sha256":  "029cdf00ddd7edf133fa18d6a67d2a86c7e12df3f3becf777655bd814412c9d0",
     "release_notes":  {
-                          "tr":  "Lisans: sınırsız planda her çizimde lisans sunucuda denetlenir, iptal ve süre bitişi anında geçerli olur. Bilgisayar saatinin geri alınması tespit edilir. Ürün kütüphanesinden ürün içermeyen ENTES ve ONKA markaları çıkarıldı; gerekirse ürünler kullanıcı tarafından elle yazılabilir.",
+                          "tr":  "0.1.52\u0027de yanlışlıkla ürün kütüphanesinden çıkarılan ENTES ve ONKA ürünleri geri eklendi. Başka bir değişiklik yok.",
                           "en":  ""
                       }
 }
