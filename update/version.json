@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.54",
+    "version":  "0.1.55",
     "release_date":  "2026-11-05",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.54/Panoplus_Setup.exe",
-    "checksum_sha256":  "e75d1d89401098688a23cba2d3426752424002f062103f7be7dac5ba2af3a430",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.55/Panoplus_Setup.exe",
+    "checksum_sha256":  "516a608586538db0961cda443b96862fe4a1f8865ca955656573edd546c41231",
     "release_notes":  {
-                          "tr":  "Çizimde hem sembolü hem de yanında yazısı bulunan cihazlar artık tek cihaz olarak sayılıyor. Sigorta, şalter ve akım trafosu sembollerinde cihaz sayısı gerçekte olduğundan fazla çıkabiliyordu. Eşleştirme çizimin ölçeğinden bağımsız çalışır.",
+                          "tr":  "Şalter etiketinin yanındaki ayrı satırdaki kırma gücü (Icu: 65kA) artık şalter ile birlikte okunuyor. E.A yazısı enerji analizörü olarak sayılıyor. Açtırma bobinli ve TROID yazımları tanınıyor.",
                           "en":  ""
                       }
 }
