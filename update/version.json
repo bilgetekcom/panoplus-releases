@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.55",
-    "release_date":  "2026-11-05",
+    "version":  "0.1.56",
+    "release_date":  "2026-11-08",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.55/Panoplus_Setup.exe",
-    "checksum_sha256":  "516a608586538db0961cda443b96862fe4a1f8865ca955656573edd546c41231",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.56/Panoplus_Setup.exe",
+    "checksum_sha256":  "243cbfaf6514606e3524f45746a3ba79388b9ef009b00f9ece2f0b92cdd01f6b",
     "release_notes":  {
-                          "tr":  "Şalter etiketinin yanındaki ayrı satırdaki kırma gücü (Icu: 65kA) artık şalter ile birlikte okunuyor. E.A yazısı enerji analizörü olarak sayılıyor. Açtırma bobinli ve TROID yazımları tanınıyor.",
+                          "tr":  "Güvenlik sertleştirmesi: örnek çizim ücretsiz izni içerik doğrulamasına bağlandı, çizim görüntüleyicisindeki Excel dışa aktarma lisans kontrolüne alındı, lisans saat koruması güçlendirildi, kurulum dosyası bütünlük denetimi görüntüleyici dosyalarını da kapsıyor.",
                           "en":  ""
                       }
 }
