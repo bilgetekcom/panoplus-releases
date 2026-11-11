@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.56",
-    "release_date":  "2026-11-08",
+    "version":  "0.1.57",
+    "release_date":  "2026-11-11",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.56/Panoplus_Setup.exe",
-    "checksum_sha256":  "243cbfaf6514606e3524f45746a3ba79388b9ef009b00f9ece2f0b92cdd01f6b",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.57/Panoplus_Setup.exe",
+    "checksum_sha256":  "934dbfb886352bc6d79f99496538579ee6a539a1da7f9a6db5df5b0345021bc3",
     "release_notes":  {
-                          "tr":  "Güvenlik sertleştirmesi: örnek çizim ücretsiz izni içerik doğrulamasına bağlandı, çizim görüntüleyicisindeki Excel dışa aktarma lisans kontrolüne alındı, lisans saat koruması güçlendirildi, kurulum dosyası bütünlük denetimi görüntüleyici dosyalarını da kapsıyor.",
+                          "tr":  "Panoplus artık işlenen çizimi ve listede, ürünlerde, panolarda ve ölçülerde yaptığınız düzeltmeleri okuma doğruluğunu artırmak için Bilgetek\u0027e gönderir. Fiyat, iskonto ve teklif tutarları gönderilmez. Lisans sözleşmesi buna göre yenilendi; Hakkında penceresinden okuyabilirsiniz.",
                           "en":  ""
                       }
 }
