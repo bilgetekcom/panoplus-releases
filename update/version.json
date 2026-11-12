@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.57",
-    "release_date":  "2026-11-11",
+    "version":  "0.1.58",
+    "release_date":  "2026-11-12",
     "channel":  "stable",
-    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.57/Panoplus_Setup.exe",
-    "checksum_sha256":  "934dbfb886352bc6d79f99496538579ee6a539a1da7f9a6db5df5b0345021bc3",
+    "download_url":  "https://github.com/bilgetekcom/panoplus-releases/releases/download/v0.1.58/Panoplus_Setup.exe",
+    "checksum_sha256":  "870fd6b314798eecbc1ac5e802903dc775670bc7fa04bb1c706c408a87103f97",
     "release_notes":  {
-                          "tr":  "Panoplus artık işlenen çizimi ve listede, ürünlerde, panolarda ve ölçülerde yaptığınız düzeltmeleri okuma doğruluğunu artırmak için Bilgetek\u0027e gönderir. Fiyat, iskonto ve teklif tutarları gönderilmez. Lisans sözleşmesi buna göre yenilendi; Hakkında penceresinden okuyabilirsiniz.",
+                          "tr":  "Çizim okuma iyileştirildi: antet, hesap notları ve lejant artık cihaz sayılmıyor; bara çıkışlarında yalnızca akım değeri yazılı cihazlar okunuyor; kompanzasyon kademeleri, ölçü aletleri, akım trafoları, sinyal lambaları ve iki satıra bölünmüş cihaz yazıları doğru birleştiriliyor; kablo tipleri (H07V, XLPE, NYFGBY ve benzerleri) ve AutoCAD Electrical çizimlerindeki termik, zaman rölesi ve kontaktör etiketleri daha iyi tanınıyor.",
                           "en":  ""
                       }
 }
